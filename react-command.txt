@@ -1,3 +1,4 @@
 1. install react app package -> cmd: npm i -g create-react-app
 2.create react application   -> cmd: create-react-app < project name >
 3.start project -> cmd:npm start
+4. faker library -> cmd: npm install --save faker
